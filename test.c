@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 int main() {
-	int a=5;
-	printf("\n %d",a);
+	int a=5,b=1243;
+	printf("\n %d\n%d",a,b);
 	return 0;
 }
